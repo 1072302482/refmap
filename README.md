@@ -1,3 +1,5 @@
+Same as Lotinga, M.J.B. (2025). refmap-psychoacoustics. GitHub. https://github.com/acoustics-code-salford/refmap-psychoacoustics
+
 [![REFMAP logo](assets/proj/horizontal_REFMAP_FINAL_LOGO-black-bg.png)](https://www.refmap.eu/)
 # refmap-psychoacoustics
 REFMAP project task 4.3: Psychoacoustics of sound from unmanned aircraft systems (UAS) / unmanned aerial vehicles (UAVs), and urban air mobility (UAM)
